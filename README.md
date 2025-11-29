@@ -53,7 +53,7 @@ Overall, Vercel v0 significantly accelerated the design workflow while maintaini
 👉 Add your Vercel link here
 
 ### 🟦 GitHub Repository
-👉 Add your GitHub repo link here
+👉 https://github.com/GayatriSawant02/Artify.git
 
 ---
 
