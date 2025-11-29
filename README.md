@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🎨 Artify — Modern Art Gallery Landing Page
 
-## Getting Started
+A responsive landing page for an online art marketplace where artists can showcase and sell their artwork, and buyers can explore curated collections.
 
-First, run the development server:
+Built using Next.js, Tailwind CSS, and UI sections generated via Vercel v0.
 
-```bash
+🚀 Features Included (As per Assignment Requirements)
+✅ Hero Section
+
+A minimal, aesthetic hero banner introducing Artify with a bold headline, subtext, and a primary CTA button.
+
+✅ Features Section
+
+Three core features highlighting platform benefits:
+
+Secure Art Purchases
+
+Artist Portfolio Showcase
+
+Curated Collections & Categories
+
+✅ Testimonials
+
+Realistic customer testimonials showcasing trust, quality, and artist satisfaction.
+
+✅ Pricing / Contact Section
+
+A clean contact section where potential buyers and artists can reach out for inquiries or collaborations.
+
+✅ Footer
+
+A simple, elegant footer with links and brand identity.
+
+🧩 Tech Stack
+
+Next.js (App Router)
+
+React
+
+Tailwind CSS
+
+Vercel v0 (AI UI generator)
+
+Deployed on Vercel
+
+🧠 Parts Built Using Vercel v0 (5–10 Lines)
+
+Vercel v0 was used to auto-generate multiple UI components to speed up development.
+The Hero Section, Features Cards, Testimonials layout, and Contact Section were created using prompts inside Vercel v0.
+These generated components were then customized manually for better spacing, responsiveness, and branding.
+The button styles, card layouts, and grid structure for feature items were heavily refined after the base UI was generated.
+v0 also helped create consistent typography and visual balance throughout the landing page.
+Overall, Vercel v0 significantly accelerated the design workflow while maintaining a clean and modern aesthetic.
+
+🔗 Live Demo & Code
+🔴 Live Deployed Link (Vercel)
+
+👉 Add your Vercel link here
+
+🟦 GitHub Repository
+
+👉 Add your GitHub repo link here
+
+📂 Project Setup
+
+To run the project locally:
+
+git clone <your-repo-link>
+cd <project-folder>
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📱 Responsiveness
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The landing page is fully responsive for:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Desktop
 
-## Learn More
+Tablet
 
-To learn more about Next.js, take a look at the following resources:
+Mobile devices
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built using Tailwind’s grid and flex utilities.
