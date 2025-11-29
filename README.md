@@ -50,7 +50,7 @@ Overall, Vercel v0 significantly accelerated the design workflow while maintaini
 ## 🔗 Live Demo & Code
 
 ### 🔴 Live Deployed Link (Vercel)
-👉 Add your Vercel link here
+👉 https://artify-flax.vercel.app/
 
 ### 🟦 GitHub Repository
 👉 https://github.com/GayatriSawant02/Artify.git
