@@ -37,7 +37,7 @@ A simple, elegant footer with links and brand identity.
 
 ---
 
-## 🧠 Parts Built Using Vercel v0 (5–10 Lines)
+## 🧠 Parts Built Using Vercel v0 
 Vercel v0 was used to auto-generate multiple UI components to speed up development.  
 The Hero Section, Features Cards, Testimonials layout, and Contact Section were created using prompts inside Vercel v0.  
 These generated components were then customized manually for better spacing, responsiveness, and branding.  
