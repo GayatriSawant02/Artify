@@ -6,7 +6,7 @@ Built using **Next.js**, **Tailwind CSS**, and UI sections generated via **Verce
 
 ---
 
-## 🚀 Features Included (As per Assignment Requirements)
+## 🚀 Features Included 
 
 ### ✅ Hero Section
 A minimal, aesthetic hero banner introducing **Artify** with a bold headline, subtext, and a primary CTA button.
